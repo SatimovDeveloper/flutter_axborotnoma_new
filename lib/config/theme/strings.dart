@@ -1,0 +1,46 @@
+class AppText{
+  static String get splashText => "Bilim va malakalarni\nbaholash agentligi";
+  static String get introTitle1 => "BMB ga xush kelibsiz";
+  static String get introSubTitle1 => "Bilim va malakalarni baholash agentligiga xush kelibsiz";
+  static String get introTitle2 => "Kerakli fanlarni tanlang";
+  static String get introSubTitle2 => "Bilimlringizni sinash uchun kerakli fanlarni tanlang";
+  static String get introTitle3 => "Fanlar bo‘yicha testlar";
+  static String get introSubTitle3 => "Darajalangan testlardan foydalaning. Davlat imtihoniga tayyorlaning";
+  static String get introSkip => "O‘tkazish";
+  static String get introNext => "Keyingi";
+  static String get introPrev => "Ortga";
+  static String get introEnter => "Boshlash";
+  static String get textSignUp => "Ro‘yhatdan o‘tish";
+  static String get signUpPSerNum => "Passport (ID karta) seriya va raqami";
+  static String get textJSHIR => "JSHIR";
+  static String get textPhone => "Telefon Raqami";
+  static String get textPassword => "Parol";
+  static String get signUpConfirmPassword => "Parolni qayta kiriting";
+  static String get signUpAccount => "Sizda shaxsiy kabinet mavjudmi?  ";
+  static String get textEnter => "Kirish";
+  static String get textCaptchaTitle => "Arifmetik ifoda";
+  static String get signUpCheckText => "Qonun talablari doirasida shaxsga doir ma'lumotlarimdan foydalanishga va ishlov berishga rozilik bildiraman.";
+  static String get signUpHintPSerNum => "AA1234567";
+  static String get textHintImei => "41234567891058";
+  static String get textHintPhone => "+998912345678";
+  static String get signInText => "Xush kelibsiz\n";
+  static String get signInEnterAccount => "Shaxsiy kabinetga kirish";
+  static String get signInForgetPassword => "Parolni unutdingizmi?";
+  static String get signInTextNoAccount => "Yangi foydalanuvchimisiz?  ";
+  static String get signInShowText => "JSHIR va Ro‘yhatdan o‘tgan telefon raqamingizni kiriting";
+  static String get signInTextSend => "Yuborish";
+  static String get verifyAppBarTitle => "Raqamni tasdiqlash";
+  static String get verifyText1 => "Ro‘yhatdan o‘tish uchun ";
+  static String get verifyText2 => "raqamiga SMS xabar yuborildi.SMS kodni kiriting! ";
+  static String get verifyText3 => "Sizga kod kelmadimi? ";
+  static String get verifyText4 => "Qayta yuborish";
+  static String get verifyText5 => "Qayta yuborish vaqti ";
+  static String get textConfirm => "Tasdiqlash";
+  static String get verifyText7 => "Parol tiklash uchun ";
+  static String get resetPasswordTitle => "Parolni o‘zgartirish";
+  static String get resetText1 => "Yangi parol";
+  static String get resetText2 => "Yangi parolni tasdiqlash";
+  static String get resetText3 => "Parol muvofaqqiyatli yangilandi";
+  static String get resetText4 => "Siz endi yangi parolingiz bilan kirishingiz mumkin.";
+}
+
