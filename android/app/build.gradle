@@ -7,16 +7,16 @@ plugins {
 
 android {
     namespace = "com.example.flutter_axborotnoma_new"
-    compileSdk = 35
-    ndkVersion = "25.1.8937393"
+    compileSdk = 35  // ozgardi
+    ndkVersion = "25.1.8937393"  // ozgardi
 
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_17
-        targetCompatibility = JavaVersion.VERSION_17
+        sourceCompatibility = JavaVersion.VERSION_17  // ozgardi
+        targetCompatibility = JavaVersion.VERSION_17  // ozgardi
     }
 
     kotlinOptions {
-        jvmTarget = 17
+        jvmTarget = 17  // ozgardi
     }
 
     defaultConfig {
